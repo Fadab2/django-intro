@@ -50,6 +50,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'intro_project.urls'
+STATIC_URL = 'static/'
 
 TEMPLATES = [
     {
